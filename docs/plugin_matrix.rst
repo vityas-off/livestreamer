@@ -35,6 +35,10 @@ disney_de           - video.disney.de    Yes   Yes   Streams may be geo-restrict
 dommune             dommune.com          Yes   --
 douyutv             douyutv.com          Yes   --
 dmcloud             api.dmcloud.net      Yes   --
+dplay               - dplay.se           --    Yes   Streams may be geo-restricted.
+                                                     Only non-premium streams currently supported.
+                    - dplay.no
+                    - dplay.dk
 drdk                dr.dk                Yes   Yes   Streams may be geo-restricted to Denmark.
 euronews            euronews.com         Yes   No
 expressen           expressen.se         Yes   Yes
@@ -68,9 +72,6 @@ picarto             picarto.tv           Yes   --
 rtlxl               rtlxl.nl             No    Yes   Streams may be geo-restriced to The Netherlands. Livestreams not supported.
 rtve                rtve.es              Yes   No
 ruv                 ruv.is               Yes   Yes   Streams may be geo-restricted to Iceland.
-sbsdiscovery        - kanal5play.se      --    Yes
-                    - kanal9play.se
-                    - kanal11play.se
 seemeplay           seemeplay.ru         Yes   Yes
 speedrunslive       speedrunslive.com    Yes   --    URL forwarder to Twitch channels.
 ssh101              ssh101.com           Yes   No
