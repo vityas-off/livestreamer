@@ -6,7 +6,7 @@ from livestreamer.plugin.api import http
 
 _vod_re = re.compile('\"(http(s)?://.*\.mp4\?t=.*)\"')
 _rtmp_re = re.compile('rtmp://[^"]+/(?P<channel>\w+)+[^/"]+')
-_url_re = re.compile('http(s)?://(?:\w+.)?\livecoding\.tv')
+_url_re = re.compile('http(s)?://(?:\w+.)?liveedu\.tv')
 
 
 class LivecodingTV(Plugin):
